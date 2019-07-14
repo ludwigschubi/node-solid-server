@@ -5,6 +5,7 @@
 /.nyc_output
 /.tern-port
 /.db
+/config.json
 /accounts
 /config/account-template
 /config/email-templates
