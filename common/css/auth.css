@@ -62,11 +62,14 @@ input {
     padding: 5px;
 }
 
+<<<<<<< HEAD
 input .control-progress {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
 }
 
+=======
+>>>>>>> master
 input::placeholder {
     color: #0c89c6;
 }
