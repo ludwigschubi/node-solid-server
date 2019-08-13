@@ -1,5 +1,5 @@
 .authContainer {
-    margin-top: 5%;
+    margin: 5% 0;
     border: solid #c4c4c4 1px;
     border-radius: 10px;
 }
@@ -60,6 +60,11 @@ input {
     background-color: #f4f4f4;
     border-radius: 5px;
     padding: 5px;
+}
+
+input .control-progress {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 input::placeholder {
