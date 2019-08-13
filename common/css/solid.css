@@ -1,3 +1,7 @@
+label {
+    font-weight: 500;
+}
+
 .panel-login-tls,
 .panel-already-registered{
     text-align: center;
