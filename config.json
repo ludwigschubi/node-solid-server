@@ -16,7 +16,7 @@
     "description": "",
     "logo": ""
   },
-  "enforceToc": true,
+  "enforceToc": false,
   "disablePasswordChecks": false,
   "tocUri": "https://your-toc",
   "supportEmail": "Your support email address"
